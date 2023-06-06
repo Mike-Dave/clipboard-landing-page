@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- [My Solution]()
-- [Live Site URL]()
+- [My Solution](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9/hub)
+- [Live Site URL](https://mike-dave.github.io/clipboard-landing-page/)
 
 ## My process
 
